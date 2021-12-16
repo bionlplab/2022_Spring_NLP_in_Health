@@ -1,13 +1,19 @@
 # HINF 5016: Natural Language Processing in Health
 
-Natural language processing (NLP) is one of the most important technologies in artificial intelligence. In recent years, NLP applications in Medicine are everywhere because large quantities of free-text information stored in databases are waiting to be explored. In this course, students will gain a thorough introduction to NLP applications and cutting-edge research in Deep Learning for NLP.
-
 * Instructor: Yifan Peng (yip4002@med.cornell.edu)
 * Location: 1300 York Ave. (C-200)
 * Time: Jan. 3, 2022 - April 8, 2022, 5:00-8:00 pm East Time on Wednesdays
 * TA: Braja Patra (bgp4001@med.cornell.edu)
 * Office Hours: 5:00-6:00 pm on Mondays by appointment (Location: TBD)
 * Grading: Letter grade
+
+## Course Aims and Outcomes
+
+This course provides students with an understanding of the field of natural language processing and its applications in health. Students will acquire knowledge of sources of text data, linguistic structures, and the range of methods available for processing. Hands-on experience with the Python programming language and tool kit will provide useful skills for managing text data for solving a variety of problems in the health domain.
+
+### Format and Procedures: 
+
+The course is 14 weeks in length. The course follows the progression of topics: python review, regular expression and automata, text normalization, n-gram, text classification, sequence labeling, parsing, word vector, introduction to deep learning, convolutional neural network and recurrent neural network, and transformer-based method. Each topic is addressed in a module lasting 1-2 weeks. Students will work on an individual project in parallel with these activities and give a final presentation last week.
 
 ## Prerequisites
 
