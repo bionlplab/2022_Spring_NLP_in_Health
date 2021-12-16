@@ -1,4 +1,4 @@
-# HINF 5016: Natural Language Processing in Health
+## HINF 5016: Natural Language Processing in Health
 
 * Instructor: Yifan Peng (yip4002@med.cornell.edu)
 * Location: 1300 York Ave. (C-200)
@@ -7,7 +7,7 @@
 * Office Hours: 5:00-6:00 pm on Mondays by appointment (Location: TBD)
 * Grading: Letter grade
 
-## Course Aims and Outcomes
+### Course Aims and Outcomes
 
 This course provides students with an understanding of the field of natural language processing and its applications in health. Students will acquire knowledge of sources of text data, linguistic structures, and the range of methods available for processing. Hands-on experience with the Python programming language and tool kit will provide useful skills for managing text data for solving a variety of problems in the health domain.
 
@@ -15,13 +15,13 @@ This course provides students with an understanding of the field of natural lang
 
 The course is 14 weeks in length. The course follows the progression of topics: python review, regular expression and automata, text normalization, n-gram, text classification, sequence labeling, parsing, word vector, introduction to deep learning, convolutional neural network and recurrent neural network, and transformer-based method. Each topic is addressed in a module lasting 1-2 weeks. Students will work on an individual project in parallel with these activities and give a final presentation last week.
 
-## Prerequisites
+### Prerequisites
 
 * **Python**: Prior exposure to programming and Python is highly recommended. We will provide a tutorial on Python in the first two weeks.
 * **Basic Probability and Statistics**: You should know the basics of probabilities, mean, standard deviation, etc.
 * **College Calculus, Linear Algebra**: You should understand matrix/vector notation and operations.
 
-## Reference Texts
+### Reference Texts
 
 The following texts are useful, but none are required.
 
@@ -40,7 +40,7 @@ If you are interested in Deep Learning
 * [Deep Learning](http://www.deeplearningbook.org/)
 * [Natural Language Processing with PyTorch](https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236)
 
-## Tentative Course Schedule Overview 
+### Tentative Course Schedule Overview 
 
 | Dates    | Topic                                     | Event                       | Deadline            |
 |----------|-------------------------------------------|-----------------------------|---------------------|
