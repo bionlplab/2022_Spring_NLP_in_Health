@@ -44,17 +44,17 @@ If you are interested in Deep Learning
 
 | Dates    | Topic                                     | Event                       | Deadline            |
 |----------|-------------------------------------------|-----------------------------|---------------------|
-| 01/05/21 | Introduction                              |                             |                     |
-| 01/12/21 | Regular expression                        | Assignment 1                |                     |
-| 01/19/21 | Text normalization                        |                             |                     |
-| 01/26/21 | n-gram                                    | Assignment 2, Final project | Assignment 1        |
-| 02/02/21 | Text classification                       |                             |                     |
-| 02/09/21 | Part-of-speech tagging                    |                             | Assignment 2        |
-| 02/16/21 | Parsing                                   |                             |                     |
-| 02/23/21 | Intro to deep learning: neural network    | Assignment 3                | Literature review   |
-| 03/02/21 | Guest lecture                             |                             |                     |
-| 03/19/21 | CNN, RNN                                  | Assignment 4                | Assignment 3        |
-| 03/16/21 | Guest lecture                             |                             |                     |
-| 03/23/21 | Transfer learning and multi-task learning |                             | Assignment 4        |
-| 03/30/21 | Guest lecture                             |                             |                     |
-| 04/06/21 | Final project presentation                |                             | Final project paper |
+| 01/05/22 | Introduction                              |                             |                     |
+| 01/12/22 | Regular expression                        | Assignment 1                |                     |
+| 01/19/22 | Text normalization                        |                             |                     |
+| 01/26/22 | n-gram                                    | Assignment 2, Final project | Assignment 1        |
+| 02/02/22 | Text classification                       |                             |                     |
+| 02/09/22 | Part-of-speech tagging                    |                             | Assignment 2        |
+| 02/16/22 | Parsing                                   |                             |                     |
+| 02/23/22 | Intro to deep learning: neural network    | Assignment 3                | Literature review   |
+| 03/02/22 | Guest lecture                             |                             |                     |
+| 03/19/22 | CNN, RNN                                  | Assignment 4                | Assignment 3        |
+| 03/16/22 | Guest lecture                             |                             |                     |
+| 03/23/22 | Transfer learning and multi-task learning |                             | Assignment 4        |
+| 03/30/22 | Guest lecture                             |                             |                     |
+| 04/06/22 | Final project presentation                |                             | Final project paper |
