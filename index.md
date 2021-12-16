@@ -49,7 +49,7 @@ If you are interested in Deep Learning
 | 02/16/22 | Parsing                                   |                             |                     |
 | 02/23/22 | Intro to deep learning: neural network    | Assignment 3                | Literature review   |
 | 03/02/22 | Guest lecture: Hao Liu, Columbia Univ     |                             |                     |
-| 03/19/22 | CNN, RNN                                  | Assignment 4                | Assignment 3        |
+| 03/09/22 | CNN, RNN                                  | Assignment 4                | Assignment 3        |
 | 03/16/22 | Guest lecture                             |                             |                     |
 | 03/23/22 | Transfer learning and multi-task learning |                             | Assignment 4        |
 | 03/30/22 | Guest lecture                             |                             |                     |
