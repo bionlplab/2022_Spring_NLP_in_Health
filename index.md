@@ -1,9 +1,7 @@
-<!-- ## HINF 5016: Natural Language Processing in Health -->
-
-* **Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))
-* **TA**: Braja Patra ([bgp4001@med.cornell.edu](bgp4001@med.cornell.edu))
-* **Office Hours**: 5:00-6:00 pm on Mondays by appointment (Location: TBD)
-* **Grading**: Letter grade
+**Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))<br>
+**TA**: Braja Patra ([bgp4001@med.cornell.edu](bgp4001@med.cornell.edu))<br>
+**Office Hours**: 5:00-6:00 pm on Mondays by appointment (Location: TBD)<br>
+**Grading**: Letter grade
 
 ### Course Aims and Outcomes
 
