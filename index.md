@@ -7,7 +7,7 @@
 
 This course provides students with an understanding of the field of natural language processing and its applications in health. Students will acquire knowledge of sources of text data, linguistic structures, and the range of methods available for processing. Hands-on experience with the Python programming language and tool kit will provide useful skills for managing text data for solving a variety of problems in the health domain.
 
-### Format and Procedures: 
+### Format and Procedures
 
 The course is 14 weeks in length. The course follows the progression of topics: python review, regular expression and automata, text normalization, n-gram, text classification, sequence labeling, parsing, word vector, introduction to deep learning, convolutional neural network and recurrent neural network, and transformer-based method. Each topic is addressed in a module lasting 1-2 weeks. Students will work on an individual project in parallel with these activities and give a final presentation last week.
 
