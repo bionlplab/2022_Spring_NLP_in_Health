@@ -1,5 +1,5 @@
 **Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))<br>
-**TA**: Braja Patra ([bgp4001@med.cornell.edu](bgp4001@med.cornell.edu))<br>
+**TA**: Braja Patra ([bgp4001@med.cornell.edu](bgp4001@med.cornell.edu)), Daniel Sanky ([das4014@med.cornell.edu](das4014@med.cornell.edu))<br>
 **Office Hours**: 5:00-6:00 pm on Mondays by appointment (Location: TBD)<br>
 **Grading**: Letter grade
 
@@ -50,7 +50,7 @@ If you are interested in Deep Learning
 | 02/23/22 | Intro to deep learning: neural network    | Assignment 3                | Literature review   |
 | 03/02/22 | Guest lecture: Hao Liu, Columbia Univ     |                             |                     |
 | 03/09/22 | CNN, RNN                                  | Assignment 4                | Assignment 3        |
-| 03/16/22 | Guest lecture: Qingyu Chen, NHI           |                             |                     |
+| 03/16/22 | Guest lecture: Qingyu Chen, NHI/NLM       |                             |                     |
 | 03/23/22 | Transfer learning and multi-task learning |                             | Assignment 4        |
-| 03/30/22 | Guest lecture                             |                             |                     |
+| 03/30/22 | Guest lecture: Imon Banerjee, Mayo Clinic |                             |                     |
 | 04/06/22 | Final project presentation                |                             | Final project paper |
