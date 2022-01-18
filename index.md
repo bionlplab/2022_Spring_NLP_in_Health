@@ -42,7 +42,7 @@ If you are interested in Deep Learning
 |----------|-------------------------------------------|-----------------------------|---------------------|
 | 01/05/22 | Introduction                              |                             |                     |
 | 01/12/22 | Regular expression                        | Assignment 1                |                     |
-| 01/19/22 | Text normalization                        |                             |                     |
+| 01/19/22 | Text preprocessing                        |                             |                     |
 | 01/26/22 | n-gram                                    | Assignment 2, Final project | Assignment 1        |
 | 02/02/22 | Text classification                       |                             |                     |
 | 02/09/22 | Part-of-speech tagging                    |                             | Assignment 2        |
