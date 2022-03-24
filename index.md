@@ -38,19 +38,19 @@ If you are interested in Deep Learning
 
 ### Tentative Course Schedule Overview 
 
-| Dates    | Topic                                     | Event                       | Deadline            |
-|----------|-------------------------------------------|-----------------------------|---------------------|
-| 01/05/22 | Introduction                              |                             |                     |
-| 01/12/22 | Regular expression                        | Assignment 1                |                     |
-| 01/19/22 | Text preprocessing                        |                             |                     |
-| 01/26/22 | n-gram                                    | Assignment 2, Final project | Assignment 1        |
-| 02/02/22 | Text classification                       |                             |                     |
-| 02/09/22 | Part-of-speech tagging                    |                             |                     |
-| 02/16/22 | Parsing                                   | Assignment 3                | Assignment 2        |
-| 02/23/22 | Intro to deep learning: neural network    |                             |                     |
-| 03/02/22 | Guest lecture: Hao Liu, Columbia Univ     |                             | Literature review   |
-| 03/09/22 | Word embeddings                           | Assignment 4                | Assignment 3        |
-| 03/16/22 | Guest lecture: Qingyu Chen, NHI/NLM       |                             |                     |
-| 03/23/22 | CNN, RNN                                  |                             |                     |
-| 03/30/22 | Guest lecture: Imon Banerjee, Mayo Clinic |                             | Assignment 4        |
-| 04/06/22 | Final project presentation                |                             | Final project paper |
+| Dates | Topic                                     | Event                       | Deadline            |
+|-------|-------------------------------------------|-----------------------------|---------------------|
+| 01/05 | Introduction                              |                             |                     |
+| 01/12 | Regular expression                        | Assignment 1                |                     |
+| 01/19 | Text preprocessing                        |                             |                     |
+| 01/26 | n-gram                                    | Assignment 2, Final project | Assignment 1        |
+| 02/02 | Text classification                       |                             |                     |
+| 02/09 | Part-of-speech tagging                    |                             |                     |
+| 02/16 | Parsing                                   | Assignment 3                | Assignment 2        |
+| 02/23 | Intro to deep learning: neural network    |                             |                     |
+| 03/02 | Guest lecture: Hao Liu, Columbia Univ     |                             | Literature review   |
+| 03/09 | Word embeddings                           | Assignment 4                | Assignment 3        |
+| 03/16 | Guest lecture: Qingyu Chen, NHI/NLM       |                             |                     |
+| 03/23 | CNN, RNN                                  |                             |                     |
+| 03/30 | Guest lecture: Imon Banerjee, Mayo Clinic |                             | Assignment 4        |
+| 04/06 | Final project presentation                |                             | Final project paper |
