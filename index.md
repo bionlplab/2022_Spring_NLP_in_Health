@@ -45,12 +45,12 @@ If you are interested in Deep Learning
 | 01/19/22 | Text preprocessing                        |                             |                     |
 | 01/26/22 | n-gram                                    | Assignment 2, Final project | Assignment 1        |
 | 02/02/22 | Text classification                       |                             |                     |
-| 02/09/22 | Part-of-speech tagging                    |                             | Assignment 2        |
-| 02/16/22 | Parsing                                   |                             |                     |
-| 02/23/22 | Intro to deep learning: neural network    | Assignment 3                | Literature review   |
-| 03/02/22 | Guest lecture: Hao Liu, Columbia Univ     |                             |                     |
-| 03/09/22 | CNN, RNN                                  | Assignment 4                | Assignment 3        |
+| 02/09/22 | Part-of-speech tagging                    |                             |                     |
+| 02/16/22 | Parsing                                   | Assignment 3                | Assignment 2        |
+| 02/23/22 | Intro to deep learning: neural network    |                             |                     |
+| 03/02/22 | Guest lecture: Hao Liu, Columbia Univ     |                             | Literature review   |
+| 03/09/22 | Word embeddings                           | Assignment 4                | Assignment 3        |
 | 03/16/22 | Guest lecture: Qingyu Chen, NHI/NLM       |                             |                     |
-| 03/23/22 | Transfer learning and multi-task learning |                             | Assignment 4        |
-| 03/30/22 | Guest lecture: Imon Banerjee, Mayo Clinic |                             |                     |
+| 03/23/22 | CNN, RNN                                  |                             |                     |
+| 03/30/22 | Guest lecture: Imon Banerjee, Mayo Clinic |                             | Assignment 4        |
 | 04/06/22 | Final project presentation                |                             | Final project paper |
